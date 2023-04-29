@@ -19,7 +19,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 
 
 
-## Solve Problems on **CodeForces** .. [See my Profile](https://codeforces.com/profile/magdy22)
+## Solve Problems on **CodeForces** .. [magdy22](https://codeforces.com/profile/magdy22)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdybadr978&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdybadr978)](https://github.com/anuraghazra/github-readme-stats)
