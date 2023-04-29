@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**magdybadr978/magdybadr978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- name and who i am start -->
+# 👋 Hi, I'm Magdy Badr
+I’m a **Computer Science Student** in 3rd year in collage
+<!-- name and who i am end -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills and Experiance
+
+### languages and Tools
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> <!-- python -->
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> <!-- java -->
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> <!-- C++ -->
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40" align="left"> <!-- Github -->
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
+
+
+## Solve Problems on **CodeForces** .. [See my Profile](https://codeforces.com/profile/magdy22)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdybadr798&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdybadr798)](https://github.com/anuraghazra/github-readme-stats)
+
