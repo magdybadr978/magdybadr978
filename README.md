@@ -16,7 +16,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40" align="left"> <!-- Github -->
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
-<img src="https://seeklogo.com/images/J/javaspring-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
+
 
 
 ## Solve Problems on **CodeForces** .. [See my Profile](https://codeforces.com/profile/magdy22)
