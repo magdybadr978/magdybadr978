@@ -26,7 +26,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdybadr978)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📞 How To Reach Me
-<a href="https://www.linkedin.com/in/magdy-badr-b876731b9/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7yeAYZ0tSz2m8tXsB4tjdQ%3D%3D" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
+<a href="https://www.linkedin.com/in/magdy-badr-b876731b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY%2BiAMpKrQu2pjTKuZLizOw%3D%3D" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
 
 
 
