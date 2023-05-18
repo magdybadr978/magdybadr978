@@ -30,6 +30,9 @@ I’m a **Computer Science Student** in 3rd year in collage
 ## 📞 How To Reach Me
 <a href="https://www.linkedin.com/in/magdy-badr-b876731b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY%2BiAMpKrQu2pjTKuZLizOw%3D%3D" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" align="left"/></a>
 
+<a href="mailto:magdibadr2002@gmail.com" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" align="left" />
+</a>
 
 
 
