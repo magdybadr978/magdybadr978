@@ -13,6 +13,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> <!-- python -->
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> <!-- java -->
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> <!-- C++ -->
+<img src="https://cdn-icons-png.flaticon.com/512/919/919841.png" width="40" align="left"> <!-- C programming -->
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="40" align="left"> <!-- Github -->
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
