@@ -11,8 +11,6 @@ I’m a **Computer Science Student** in 3rd year in collage
 
 ### languages and Tools
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" align="left"> <!-- python -->
-<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-icon.svg" width="40" align="left"> <!-- TensorFlow -->
-<img src="https://cdn.worldvectorlogo.com/logos/keras-1.svg" width="40" align="left"> <!-- Keras -->
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" align="left"> <!-- java -->
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" align="left"> <!-- C++ -->
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" align="left"> <!-- Git -->
