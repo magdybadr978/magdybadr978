@@ -18,7 +18,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40"> <!-- JS -->
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" align="left"> <!-- Node.js -->
 <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" align="left"> <!-- Express.js -->
-<img src="https://cdn-icons-png.flaticon.com/512/2306/2306033.png" width="40" align="left"> <!-- SQL -->
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="40" align="left"> <!-- MySQL -->
 
 
 ## Solve Problems on **CodeForces** .. [magdy22](https://codeforces.com/profile/magdy22)
