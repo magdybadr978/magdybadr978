@@ -34,9 +34,7 @@ I’m a **Computer Science Student** in 3rd year in collage
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" align="left" />
 </a>
 
-<a href="https://www.facebook.com/magdy.badr.798" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/facebook-icon.svg" width="40" align="left" />
-</a>
+
 
 
 
