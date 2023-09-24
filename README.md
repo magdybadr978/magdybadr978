@@ -1,7 +1,7 @@
 
 <!-- name and who i am start -->
 # 👋 Hi, I'm Magdy Badr
-I’m a **Computer Science Student** in 3rd year in collage
+I’m a **Computer Science Student** in 4rd year in collage
 <!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdybadr978&label=Profile%20views&color=0e75b6&style=flat" alt="magdybadr978" /> </p>
