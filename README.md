@@ -1,7 +1,7 @@
 
 <!-- name and who i am start -->
 # 👋 Hi, I'm Magdy Badr
- I am a software engineering who is interested in backend programming with Node.js.
+ I am a software engineering who is interested in backend programming.
 <!-- name and who i am end -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdybadr978&label=Profile%20views&color=0e75b6&style=flat" alt="magdybadr978" /> </p>
